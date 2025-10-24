@@ -43,3 +43,7 @@ $max-content-width: {{ site.max_width }};
   text-decoration: none;
   cursor: default;
 }
+
+#education h6.education-study-type {
+     color: var(--global-text-color) !important;
+}
