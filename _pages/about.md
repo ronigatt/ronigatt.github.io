@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://en-sagol.tau.ac.il/'>Sagol School of Neuroscience</a>. Tel Aviv University
 
