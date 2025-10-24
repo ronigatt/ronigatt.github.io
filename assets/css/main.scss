@@ -47,3 +47,16 @@ $max-content-width: {{ site.max_width }};
 h6.education-study-type {
      color: var(--global-theme-color) !important;
 }
+
+.publication-link .publication-fake-link {
+    color: var(--global-theme-color);
+}
+
+.publication-link {
+  text-decoration: underline;
+}
+
+.publication-fake-link {
+  text-decoration: none;
+  cursor: default;
+}
