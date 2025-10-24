@@ -634,7 +634,7 @@ jsonresume:
   - experience
   - teaching
   - awards
-  - publications
+  # - publications
   - conferences
   # - projects
   - volunteer
