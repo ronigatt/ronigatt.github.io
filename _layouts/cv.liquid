@@ -103,6 +103,8 @@ layout: default
                   {% include resume/projects.liquid %}
                 {% when 'awards' %}
                   {% include resume/awards.liquid %}
+                {% when 'conferences' %}
+                  {% include resume/conferences.liquid %}
                 {% when 'skills' %}
                   {% include resume/skills.liquid %}
                 {% when 'publications' %}
@@ -119,8 +121,6 @@ layout: default
                   {% include resume/teaching.liquid %}
                 {% when 'experience' %}
                   {% include resume/experience.liquid %}
-                {% when 'conferences' %}
-                  {% include resume/conferences.liquid %}
                 {% else %}
 
               {% endcase %}
