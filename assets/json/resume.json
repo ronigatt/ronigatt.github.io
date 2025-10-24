@@ -235,20 +235,7 @@
     "date": "2018–2020"
   }
 ],
-
-  "volunteer": [
-    { "organization": "Hevruta (bridging program for women)","startDate": "2021", "endDate": "2021" },
-    { "organization": "Engineers Without Borders", "startDate": "2021", "endDate": "2023" }, 
-    { "organization": "Mithabrim+ (Dean of Students) – nanosatellites outreach, teaching science to girls", "startDate": "2019", "endDate": "2020" },
-    { "organization": "Walking Together – mentoring program for first-year undergraduates", "startDate": "2018", "endDate": "2020" }
-  ],
-
-  "languages": [
-    { "language": "Hebrew", "fluency": "Native" },
-    { "language": "English", "fluency": "Fluent" },
-    { "language": "Spanish", "fluency": "Conversational" }
-  ],
-
+  
   "conferences": [
     {
       "name": "IUS 2025 – Oral Presentation",
@@ -280,5 +267,18 @@
       "summary": "Extracellular recordings of multiple optically-tagged neurons for cell-type classification",
       "startDate": "2022-07"
     }
+  ],
+
+  "volunteer": [
+    { "organization": "Hevruta (bridging program for women)","startDate": "2021", "endDate": "2021" },
+    { "organization": "Engineers Without Borders", "startDate": "2021", "endDate": "2023" }, 
+    { "organization": "Mithabrim+ (Dean of Students) – nanosatellites outreach, teaching science to girls", "startDate": "2019", "endDate": "2020" },
+    { "organization": "Walking Together – mentoring program for first-year undergraduates", "startDate": "2018", "endDate": "2020" }
+  ],
+
+  "languages": [
+    { "language": "Hebrew", "fluency": "Native" },
+    { "language": "English", "fluency": "Fluent" },
+    { "language": "Spanish", "fluency": "Conversational" }
   ]
 }
