@@ -44,6 +44,6 @@ $max-content-width: {{ site.max_width }};
   cursor: default;
 }
 
-#education h6.education-study-type {
+h6.education-study-type {
      color: var(--global-theme-color) !important;
 }
