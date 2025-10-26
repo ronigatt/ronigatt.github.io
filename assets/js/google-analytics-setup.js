@@ -3,4 +3,4 @@ function gtag() {
   window.dataLayer.push(arguments);
 }
 gtag("js", new Date());
-gtag("config", "G-7N585E754T");
+gtag("config", "G-9ZJDYHNJ7W");
